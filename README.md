@@ -1,2 +1,0 @@
-# ObjectDetectionWebcam
-Created with CodeSandbox
